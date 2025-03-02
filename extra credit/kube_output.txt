@@ -1,0 +1,3 @@
+NAME                      READY   STATUS    RESTARTS   AGE
+my-app-797ff49955-d8kpv   1/1     Running   0          100s
+my-app-797ff49955-kcdtr   1/1     Running   0          100s
